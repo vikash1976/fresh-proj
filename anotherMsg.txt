@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 This is another message.
 Direct change on remote repo.
-=======
 This is another message.
->>>>>>> 2df99ff62351c946afe295acc5f75fbf30f2f7f9
