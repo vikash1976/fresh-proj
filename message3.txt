@@ -1,1 +1,2 @@
 this is message in message3.
+Another line got added.
